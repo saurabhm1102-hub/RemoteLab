@@ -10,3 +10,8 @@ This project demonstrates Git version control.
 ## Development
 
 This project uses branches and commits to manage changes.
+
+## Future Improvements
+
+- Add more department information
+- Improve website structure
